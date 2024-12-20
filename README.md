@@ -39,11 +39,11 @@ For a detailed exploration of all findings, open the Power BI report file includ
 
 ## Dashboard Previews
 
-### Patient Demographics and Treatment Costs
+### Patient Demographics
 ![Dashboard Preview 1](reports/dashboard_preview1.png)
 
 ### Hospital Performance Metrics
-![Dashboard Preview 2](path/to/dashboard_preview2.png)
+![Dashboard Preview 2](reports/dashboard_preview2.png)
 
 ---
 
