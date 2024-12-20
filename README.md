@@ -1,7 +1,10 @@
 # HealthCare : Advancing Healthcare Analysis through Data Insights.
 
 ## Overview
+## Overview
 This repository contains a healthcare analytics project designed to provide actionable insights for healthcare providers and optimize hospital operations. The analysis and interactive visualizations were created using Power BI, leveraging two datasets: `Patient Medical Records` and `Hospital Treatment Details`.
+
+Explore the interactive dashboard here: [Healthcare Dashboard](https://app.fabric.microsoft.com/view?r=eyJrIjoiYTJlNzM2ZjEtYzhlMi00NTIwLWFlYTYtZDk5NjBmYjU3OWVjIiwidCI6ImRhYmRkNmYyLWU1YTctNGVmOC05OTk3LWZhNjcxNTkxZDc0MyJ9&pageName=ef8251b9a5348c053e08).
 
 ## Industrial Context
 Healthcare providers face significant challenges in analyzing vast amounts of data to improve patient care and operational efficiency. Insights derived from this data can help reduce costs, improve patient outcomes, and enhance hospital performance.
